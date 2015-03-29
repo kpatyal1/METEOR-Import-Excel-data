@@ -1,1 +1,10 @@
 /* CSS declarations go here */
+#zipsTable{
+	height:600px;
+	overflow-y:scroll;
+	overflow: -x:hidden;
+}
+
+#zipsTable td{
+	width: :30%;
+}

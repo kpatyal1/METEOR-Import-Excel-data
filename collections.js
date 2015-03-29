@@ -1,1 +1,1 @@
-Zips = new Meteor.Collection('ziipps');
+Zips = new Meteor.Collection('zips');
